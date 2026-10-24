@@ -1,0 +1,25 @@
+
+# Dependencies and generated frontend files
+node_modules/
+dist/
+.angular/
+
+# Environment and local secrets
+.env
+.env.*
+!.env.example
+secrets.json
+appsettings.*.local.json
+
+# .NET generated files
+**/bin/
+**/obj/
+
+# IDE and operating system files
+.vs/
+.vscode/*
+!.vscode/extensions.json
+!.vscode/launch.json
+!.vscode/tasks.json
+.DS_Store
+Thumbs.db

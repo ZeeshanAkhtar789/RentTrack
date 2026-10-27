@@ -21,5 +21,6 @@ appsettings.*.local.json
 !.vscode/extensions.json
 !.vscode/launch.json
 !.vscode/tasks.json
+*.csproj.user
 .DS_Store
 Thumbs.db

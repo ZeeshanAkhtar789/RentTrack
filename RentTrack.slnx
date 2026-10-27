@@ -1,0 +1,5 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/RentTrack.Api/RentTrack.Api.csproj" />
+  </Folder>
+</Solution>
